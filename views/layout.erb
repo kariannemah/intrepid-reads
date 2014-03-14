@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+  <meta charset="utf-8">
+  <title>neither mfa nor nyc</title>
+  <link href="/css/styles.css" rel="stylesheet" type="text/css">
+  <script type="text/javascript" src="javascripts/geo.js"></script>
+  <!--
+  Include the maps javascript with sensor=true because this code is using a
+  sensor (a GPS locator) to determine the user's location.
+  See: https://developers.google.com/maps/documentation/javascript/tutorial#Loading_the_Maps_API
+  -->
+  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=true"></script>
+  <script type="text/javascript" src="javascripts/geo.js"></script>
+</head>
+<body>
+<%= yield %>
+</body>
+</html>
