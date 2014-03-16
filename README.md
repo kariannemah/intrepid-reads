@@ -1,7 +1,7 @@
 a list of books from all over the world
-random bot
-refresh for a new country and a new book
+- refresh for a new country and a new book - done!
 
+- I removed all US books
 
 GPS locations!
 - take a user's GPS coordinates - done!

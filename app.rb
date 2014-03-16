@@ -7,7 +7,7 @@ get '/' do
   file = CSV.read("book-list.csv")
 
   number_of_titles = file.length
-  get_book = rand(0..25-1)
+  get_book = rand(0..number_of_titles-1)
 
   array = CSV.read("book-list.csv")[get_book]
   @country = array[0]
