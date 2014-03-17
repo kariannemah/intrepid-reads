@@ -3,7 +3,7 @@ a list of books from all over the world
 
 - I removed all US books
 
-GPS locations!
+GPS locations
 - take a user's GPS coordinates - done!
 - give them a book from a country exactly across the globe
 - or, if in a body of water, give them a book from the closest country
@@ -12,3 +12,6 @@ GPS locations!
 - get country of geolocation
 - retrieve book titles - done!
   - retrieve a random book title via random row in csv - done!
+
+
+-fix refresh button
