@@ -7,12 +7,9 @@ h2, h4 {
 }
 
 #frame {
-    padding-top: 50px;
     margin: 0 auto;
     width: 75%;
-
 }
-
 
 p a, a {color: #333; text-decoration: none; padding-bottom: 0px; border-bottom: 2px #C9C5DB solid;}
 p a:visted {color: #ff00ff;}
