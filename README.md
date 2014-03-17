@@ -1,17 +1,10 @@
-a list of books from all over the world
-- refresh for a new country and a new book - done!
+a list of books from all over the world:
 
-- I removed all US books
-
-GPS locations
-- take a user's GPS coordinates - done!
-- give them a book from a country exactly across the globe
-- or, if in a body of water, give them a book from the closest country
-
-- get GPS coordinates
-- get country of geolocation
 - retrieve book titles - done!
   - retrieve a random book title via random row in csv - done!
+- refresh for a new country and a new book - done!
+- take a user's GPS coordinates - done!
 
-
--fix refresh button
+TODO:
+GPS locations
+- get the country's geocoordinates - show it on a map
