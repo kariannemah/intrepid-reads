@@ -1,4 +1,4 @@
-## Intrepid Reads
+## [Intrepid Reads](http://intrepidreads.herokuapp.com)
 
 Intrepid Reads is a stand against literary provincialism. 
 
