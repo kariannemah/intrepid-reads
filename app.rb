@@ -2,6 +2,7 @@ require 'rubygems'
 require 'sinatra'
 require 'csv'
 
+
 get '/' do
   file = CSV.read("book-list.csv")
 
